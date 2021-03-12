@@ -121,7 +121,7 @@ insert into post values (
 
 
 /* Sample Inserts for advertisement Table */
-	insert into advertisement values(
+insert into advertisement values(
 	'#1',
 	'2020-01-01',
 	'2020-04-25',
