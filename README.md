@@ -1,6 +1,6 @@
 # DBMS-Social-Network
 
-
+## Setup
 ```
 Instructions for installing MySQL
 
@@ -23,4 +23,16 @@ Instructions for installing MySQL
 
 -----------DONE-----------
 8. in your browser type:  localhost/phpmyadmin
+```
+
+## ER Model
+```
+Use this to open the attached ER model:
+https://erdplus.com/standalone
+
+(Menu option in the upper left corner)
+    -Saving the model is Export
+    -Loading the model is Import
+
+***There is no auto saving. Closing/ refreshing the site erases the progress.***
 ```
